@@ -1,2 +1,2 @@
 # snapper
-Final Year UG Project
+final year project
